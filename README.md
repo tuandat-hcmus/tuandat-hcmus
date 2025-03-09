@@ -21,4 +21,4 @@ I am a final-year student majoring in Information Technology at VNUHCMUS. Passio
 <p><a target="_blank" href="https://www.linkedin.com/in/captain-geo" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/tuandatngokhtn" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuandat-hcmus&bg_color=feffd1&color=9e4c4c&line=4c9e70&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuandat-hcmus&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
