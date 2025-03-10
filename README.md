@@ -23,5 +23,5 @@ I am a final-year student majoring in Information Technology at VNUHCMUS. Passio
 <a href="https://leetcode.com/u/captainGeo/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
-## My Github Analytics
+## 💹 My Github Analytics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuandat-hcmus&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
